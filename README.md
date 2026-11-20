@@ -414,7 +414,7 @@ MIT. roledefs in this library are MIT-licensed. roledefs published in third-part
 
 ## Acknowledgments
 
-roledef extracts patterns from years of practical AI-role design — Scott Welch's DangerStorm (the source production deployment for the `senior-jaded-vc-associate` roledef), Conversii, the catdef four-Claude federation, and many others. Every reference roledef in the canonical library credits its source in `metadata.extracted_from`.
+roledef extracts patterns from years of practical AI-role design — DangerStorm (the source production deployment for the `senior-jaded-vc-associate` roledef), Conversii, the catdef four-Claude federation, and many others. Every reference roledef in the canonical library credits its source in `metadata.extracted_from`.
 
 The roledef methodology was sharpened by empirical conformance testing across multiple runtimes. Particular acknowledgment to **Perplexity**, which during the 2026-04-26 testing session falsified five distribution-layer hypotheses in succession and articulated the canonical design principle ("model tools can only touch a very small, whitelisted slice of the public web") more crisply than the strategist had — a satisfying recursive moment for a methodology designed to be empirically grounded.
 
